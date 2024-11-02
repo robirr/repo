@@ -1,0 +1,7 @@
+name: youthful-terbium-yeti-crab
+runtime: nodejs
+description: Static Website Hosting with S3 and CloudFront
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: https://api.pulumi.com/api/orgs/robirr/ai/conversations/robirr/2ef65b61-77f4-4504-b909-599a3cf0eb87/programs/qEMghaO-0.zip

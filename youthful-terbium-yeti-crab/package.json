@@ -1,0 +1,13 @@
+{
+  "name": "youthful-terbium-yeti-crab",
+  "description": "Static Website Hosting with S3 and CloudFront",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "@pulumi/pulumi": "*",
+    "@pulumi/aws": "6.13.3"
+  }
+}
